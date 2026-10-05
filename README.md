@@ -24,12 +24,19 @@
 🔥 What I Build
 
 📱 WhatsApp Bots
+
 🤖 Telegram Bots
+
 ⚙️ REST APIs
+
 🌐 Web Scrapers
+
 🧠 AI Integrations
+
 🔗 Automation Tools
+
 📦 Node.js Packages
+
 🛠️ Developer Utilities
 
 ---
